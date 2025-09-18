@@ -1,6 +1,8 @@
 <?php
 
-$val = "Samir es el Pro";
+$val = "Samir anda haciendo pruebas con PHP";
+$val = $val . " Samir anda haciendo pruebas con PHP " . "xDDDDDDD ";
+
 
 echo "Primer hola en PHP";
 
