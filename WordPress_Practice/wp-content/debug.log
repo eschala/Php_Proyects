@@ -1,0 +1,1 @@
+[18-Sep-2025 20:59:37 UTC] PHP Warning:  Attempt to read property "title" on null in /var/www/html/wp-includes/class-wp-customize-widgets.php on line 926
