@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-<?php get_sidebar(); ?>
+
 
 <?php while (have_posts()): the_post(); ?>
 

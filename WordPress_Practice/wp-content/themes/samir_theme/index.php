@@ -5,7 +5,7 @@ Description: Tema de prueba creado por Samir Chalá Cuesta, Ingenios IT
 Author: Samir Chalá
 Author URI: http://localhost:8881/home/
 Template: samir_theme
-Version: 1
+Version: 1.0.0
 Text Domain: samir_theme
 .
 General comments/License Statement if any.
