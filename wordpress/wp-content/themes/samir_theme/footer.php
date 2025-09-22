@@ -1,7 +1,7 @@
 <footer>
-    <h1>
+    <h6>
         Este es el footer del tema Samir_theme
-    </h1>
+    </h6>
 </footer>
 
 </body>

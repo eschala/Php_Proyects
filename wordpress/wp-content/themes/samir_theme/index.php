@@ -1,13 +1,11 @@
-/*   
-Theme Name: samir_theme
-Theme URI: http://localhost:8881/home/
-Description: Tema de prueba creado por Samir Chalá Cuesta, Ingenios IT
-Author: Samir Chalá
-Author URI: http://localhost:8881/home/
+/*
+*Theme Name: samir_theme
+Theme URI: localhost
+Author: Samir Chalá Cuesta
+Description: Tema de prueba creado por Samir Chalá Cuesta
 Template: samir_theme
 Version: 1.0.0
 Text Domain: samir_theme
-.
-General comments/License Statement if any.
+Theme Name: samir_theme
 .
 */
