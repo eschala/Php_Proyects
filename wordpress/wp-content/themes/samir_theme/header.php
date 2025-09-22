@@ -9,12 +9,12 @@
          "wp_head()" Imprime las etiquetas necesarias en el head, como estilos y scripts encolados.   
     --> 
     <?php wp_head(); ?>
-    
+
 </head>
 
 <body>
 
 
     <p>
-        Este es el header del tema Samir_theme
+        <!-- Este es el header del tema Samir_theme -->
     </p>
