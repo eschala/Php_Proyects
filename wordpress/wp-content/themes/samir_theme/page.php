@@ -30,11 +30,11 @@ get_header();
     <hr>
     <div class="row">
         <div class="col-12">
-            <h2>Artículos</h2>
+            <h2>Post</h2>
         </div>
         <div class="container-md">
             <h1>
-                Entradas
+                Posts
             </h1>
             <?php
             
@@ -61,6 +61,7 @@ get_header();
                 <?php
                 echo $result_articles->article_description;
                 ?>
+                aaaaaaaaaaaaaaaaa
             </p>
             <a class="btn btn-primary" href=<?php echo $result_articles->article_source_link; ?>>
                 Leer más
